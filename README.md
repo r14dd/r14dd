@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://r14dd.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/riadmukhtarov">LinkedIn</a> ·
-  <a href="mailto:riadmukh@gmail.com">Email</a>
 </p>
 
 <p align="center">
