@@ -116,9 +116,8 @@ Awards:
 
 ## Links
 
-- Portfolio: https://your-portfolio-link  
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: riadmukh@gmail.com
+- Portfolio: https://r14dd.github.io/ 
+- LinkedIn: https://linkedin.com/in/riadmukhtarov  
 
 ---
 
