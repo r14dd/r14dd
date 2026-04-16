@@ -1,6 +1,6 @@
 <h1 align="center">Riad Mukhtarov</h1>
 <p align="center">
-  Software Engineer · Backend & Distributed Systems
+  AI Software Engineer · Distributed Systems
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Overview
 
-I design and build backend systems focused on correctness, scalability, and operational reliability.
+I design and build AI/Software systems focused on correctness, scalability, and operational reliability.
 
 My work centers around:
 - microservices architecture
@@ -35,27 +35,20 @@ I prefer building internal systems over consumer apps.
 - Event-driven systems with RabbitMQ
 - Microservice boundaries and data ownership
 - Idempotency, reliability, and failure handling
-- Distributed systems fundamentals (Raft, DHTs)
+- Distributed systems
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=DEA584)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Scala](https://img.shields.io/badge/Scala-111827?style=for-the-badge&logo=scala&logoColor=DC322F)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-111827?style=for-the-badge&logo=springsecurity&logoColor=6DB33F)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=F5A623)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 **Architecture**  
 ![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
@@ -83,7 +76,6 @@ I prefer building internal systems over consumer apps.
 ![Env Config](https://img.shields.io/badge/Env%20Config-111827?style=for-the-badge&logo=dotenv&logoColor=ECD53F)
 
 **Testing / Tools**  
-![JUnit](https://img.shields.io/badge/JUnit-111827?style=for-the-badge&logo=junit5&logoColor=25A162)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-111827?style=for-the-badge&logo=docker&logoColor=9CA3AF)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
@@ -94,6 +86,8 @@ I prefer building internal systems over consumer apps.
 ---
 
 ## Experience
+
+**AI Engineer - International Bank of Azerbaijan (ABB)**
 
 **ICT Assistant — COP29 United Nations Climate Change Conference**  
 
