@@ -1,119 +1,43 @@
-<h1 align="center">Riad Mukhtarov</h1>
-<p align="center">
-  AI Software Engineer · Distributed Systems
-</p>
+  <h1 align="center">Riad Mukhtarov</h1>
+  <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  </p>
+  <p align="center">
+    AI Engineer · Distributed Systems · Backend in Rust &amp; Python
+  </p>
 
-<p align="center">
-  <a href="https://r14dd.github.io">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/riadmukhtarov">LinkedIn</a>
-</p>
+  <p align="center">
+    <a href="https://riad.cc">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/riadmukhtarov">LinkedIn</a>
+  </p>
 
-<p align="center">
+  ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  I build software and AI systems with a focus on distributed systems and complex infrastructure — event-driven services, idempotent pipelines, and the kind of
+  backends that have to behave correctly under pressure. Before this I taught computer science at SUNY Buffalo for two years, which shaped how I think about
+  systems and how I explain them.
 
-</p>
+  Currently building AI systems at the **International Bank of Azerbaijan (ABB)** and leading the IT development team at **European Youth Parliament Azerbaijan**.
 
----
+  ---
 
-## Overview
+  ### Featured Work
 
-I design and build AI/Software systems focused on correctness, scalability, and operational reliability.
+  - **[QuorumRAG.rs](https://crates.io/crates/quorumrag)** — Consensus-based RAG published as a Rust crate (`cargo add quorumrag`). Multi-retriever ensemble with
+  quorum filtering before surfacing evidence — 95% recall vs. 70% baseline. · [docs.rs](https://docs.rs/quorumrag)
+  - **[MatchSentinel](https://github.com/r14dd/matchsentinel)** — Event-driven transaction-monitoring platform. Async scoring over RabbitMQ with idempotent
+  reprocessing, per-service databases, deployed to AWS EC2. *(Java · Spring Boot · PostgreSQL)*
+  - **[almostAykhan](https://github.com/r14dd/almostAykhan)** — RAG chatbot answering strictly from ABB's public content. Multilingual (AZ/EN/RU),
+  prompt-injection blocking, and distance-gated out-of-scope detection to prevent hallucination. *(Python · FastAPI · FAISS)*
 
-My work centers around:
-- microservices architecture
-- asynchronous messaging
-- distributed systems
-- production-style backend design
+  Also some distributed-systems fundamentals built from scratch: a **Raft** consensus implementation and a **Kademlia** DHT (both Go), and a two-layer TTL-aware
+  **Redis** cache redesign in Rust.
 
-I prefer building internal systems over consumer apps.
+  ---
 
----
+  ### Tech
 
-## Current Focus
+  `Rust` · `Python` · `Go` · `C` — distributed systems · event-driven architecture · async messaging (Kafka, RabbitMQ) · RAG / agentic systems (LangGraph, FAISS,
+  Ollama) · PostgreSQL · Docker · Kubernetes · AWS
 
-- Event-driven systems with RabbitMQ
-- Microservice boundaries and data ownership
-- Idempotency, reliability, and failure handling
-- Distributed systems
-
----
-
-## Tech Stack
-
-**Languages**  
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=DEA584)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Scala](https://img.shields.io/badge/Scala-111827?style=for-the-badge&logo=scala&logoColor=DC322F)
-
-**Architecture**  
-![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-111827?style=for-the-badge&logo=apachekafka&logoColor=F59E0B)
-![Async Messaging](https://img.shields.io/badge/Async%20Messaging-111827?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![Idempotency](https://img.shields.io/badge/Idempotent%20Consumers-111827?style=for-the-badge&logo=databricks&logoColor=E25A1C)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-111827?style=for-the-badge&logo=serverfault&logoColor=FFB347)
-![Audit Logging](https://img.shields.io/badge/Audit%20Logging-111827?style=for-the-badge&logo=elastic&logoColor=005571)
-![System Reliability](https://img.shields.io/badge/System%20Reliability-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![JPA/Hibernate](https://img.shields.io/badge/JPA%20Hibernate-111827?style=for-the-badge&logo=hibernate&logoColor=59666C)
-![Liquibase](https://img.shields.io/badge/Liquibase-111827?style=for-the-badge&logo=liquibase&logoColor=2962FF)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=databricks&logoColor=FDB515)
-
-**Cloud / Infra**  
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![SSH](https://img.shields.io/badge/SSH-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![Env Config](https://img.shields.io/badge/Env%20Config-111827?style=for-the-badge&logo=dotenv&logoColor=ECD53F)
-
-**Testing / Tools**  
-![Testcontainers](https://img.shields.io/badge/Testcontainers-111827?style=for-the-badge&logo=docker&logoColor=9CA3AF)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-
-
----
-
-## Experience
-
-**AI Engineer - International Bank of Azerbaijan (ABB)**
-
-**ICT Assistant — COP29 United Nations Climate Change Conference**  
-
-**Head Teaching Assistant: Data Structures - State University of New York at Buffalo**  
-
-**Software Engineer — EZ Pro Billing & Collection**
-
----
-
-## Education
-
-**State University of New York at Buffalo**  
-BSc in Computer Science
-
-Awards:
-- Undergraduate Teaching Assistant Award
-- Multiple Dean’s List Honors
-
----
-
-## Links
-
-- Portfolio: https://r14dd.github.io/ 
-- LinkedIn: https://linkedin.com/in/riadmukhtarov  
-
----
-
-> Building systems that behave correctly under pressure matters more than building flashy demos.
-
+  <p align="center"><sub>Full skill list and experience on <a href="https://riad.cc">riad.cc</a></sub></p>
