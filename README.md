@@ -1,9 +1,8 @@
+  <img src="https://raw.githubusercontent.com/r14dd/r14dd/main/assets/banner.gif" width="100%"/>
+
   <h1 align="center">Riad Mukhtarov</h1>
   <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-  </p>
-  <p align="center">
-    AI Engineer · Distributed Systems · Rust &amp; Python
+    AI Engineer · Distributed Systems · Rust & Python
   </p>
 
   <p align="center">
@@ -27,7 +26,7 @@
   quorum filtering before surfacing evidence — 95% recall vs. 70% baseline. · [docs.rs](https://docs.rs/quorumrag)
   - **[MatchSentinel](https://github.com/r14dd/matchsentinel)** — Event-driven transaction-monitoring platform. Async scoring over RabbitMQ with idempotent
   reprocessing, per-service databases, deployed to AWS EC2. *(Java · Spring Boot · PostgreSQL)*
-  - **[almostAykhan](https://github.com/r14dd/almostAykhan)** — RAG chatbot answering strictly from ABB's public content. Multilingual (AZ/EN/RU),
+  - **[almostAykhan](https://github.com/r14dd/almostAykhan)** — RAG chatbot answering strictly from ABB’s public content. Multilingual (AZ/EN/RU),
   prompt-injection blocking, and distance-gated out-of-scope detection to prevent hallucination. *(Python · FastAPI · FAISS)*
 
   Also some distributed-systems fundamentals built from scratch: a **Raft** consensus implementation and a **Kademlia** DHT (both Go), and a two-layer TTL-aware
